@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome to git
 
 - This is coming from dev-jay
